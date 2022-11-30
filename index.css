@@ -111,7 +111,7 @@ li {
 @media (min-width: 50rem) {
   .container {
     max-width: 69.3rem;
-    max-height: 55.9vh;
+    max-height: 55.9rem;
     text-align: left;
     display: flex;
     justify-items: center;
